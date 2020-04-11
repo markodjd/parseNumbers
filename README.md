@@ -2,7 +2,7 @@ in the num.js file, pass the arguments in call of the 'parse()' function in form
 
 Example:
 
-# parse([
+parse([
   [" _  ",
    "|_| ",
    "|_| "]
